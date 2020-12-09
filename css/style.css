@@ -809,7 +809,7 @@ ul, ol {
 	font-size: 16px;
 	color: #ffffff;
 	
-	line-height: 40px;
+	line-height: 15px;
 }
 .hp-room-items .hp-room-item .hr-text table tbody tr td.r-o {
 	width: 120px;
@@ -1262,7 +1262,7 @@ ul, ol {
 .room-item .ri-text table tbody tr td {
 	font-size: 16px;
 	color: #707079;
-	line-height: 36px;
+	line-height: 25px;
 }
 .room-item .ri-text table tbody tr td.r-o {
 	width: 125px;

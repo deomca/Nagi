@@ -276,7 +276,7 @@ ul, ol {
 .sub-title{
 	font-size: 22px;
 	text-align: center;
-	color: #fff;
+	color: rgb(233, 224, 224);
 }
 .dropdown-submenu {
 	position: relative;

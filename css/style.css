@@ -1930,13 +1930,13 @@ ul, ol {
 -----------------------*/
 
 .contact-section {
-	padding-top: 80px;
-	padding-bottom: 80px;
+	padding-top: 30px;
+	padding-bottom: 40px;
 }
 .contact-text h2 {
 	font-size: 44px;
 	color: #19191a;
-	margin-bottom: 24px;
+	margin-bottom: 12px;
 }
 .contact-text p {
 	color: #707079;
